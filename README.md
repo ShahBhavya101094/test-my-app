@@ -1,4 +1,4 @@
-# React Test Projec
+# React Test-My-App Project
 
 This project is just for learning React 
 
